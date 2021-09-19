@@ -40,3 +40,5 @@ See [CONTRIBUTING](CONTRIBUTING.md) for more information.
 ## License
 
 See [LICENSE](LICENSE).
+
+Thanks [Jackul](https://github.com/jacklul/inlinegamesbot)
