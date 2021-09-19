@@ -1,8 +1,8 @@
 # Inline Games [![Build Status](https://travis-ci.org/jacklul/inlinegamesbot.svg?branch=master)](https://travis-ci.org/jacklul/inlinegamesbot) [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40boot_gamebot-blue.svg)](https://telegram.me/boot_gamebot)
 
-A Telegram bot that provides real-time multiplayer games that can be played in any chat.
+Bot Telegram yang menyediakan game multipemain waktu nyata yang dapat dimainkan di obrolan apa pun.
 
-You can see the bot in action by messaging [@boot_gamebot](https://telegram.me/boot_gamebot).
+Anda dapat melihat bot beraksi dengan mengirim pesan ke [@boot_gamebot](https://telegram.me/boot_gamebot).
 
 #### Currently available games:
 
@@ -20,18 +20,18 @@ You can see the bot in action by messaging [@boot_gamebot](https://telegram.me/b
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jacklul/inlinegamesbot)
 
-Assuming everything was entered correctly the deploy process should run the following commands automatically and your bot should be instantly working:
+Dengan asumsi semuanya dimasukkan dengan benar, proses penyebaran harus menjalankan perintah berikut secara otomatis dan bot Anda akan langsung berfungsi:
 - `php bin/console install` - install database schema
 - `php bin/console set` - set the webhook
 
-If it doesn't you will have to open your app's console and run them manually.
+Jika tidak, Anda harus membuka konsol aplikasi dan menjalankannya secara manual.
 
-If you have verified Heroku account you will also want to add **Heroku Scheduler** addon and set up a hourly task to run the following command to clean up expired games from the database:
+Jika Anda telah memverifikasi akun Heroku, Anda juga ingin menambahkan addon Heroku Scheduler dan mengatur tugas per jam untuk menjalankan perintah berikut untuk membersihkan game yang kedaluwarsa dari database:
 - `php bin/console cron`
 
-## Note on translations
+## Catatan terjemahan
 
-Translations support is implemented but it is not used mainly because translated text would be displayed to both players - this could be problematic in "gaming" groups - people setting language that other player can't understand!
+Dukungan terjemahan diterapkan tetapi tidak digunakan terutama karena teks yang diterjemahkan akan ditampilkan kepada kedua pemain - ini bisa menjadi masalah dalam grup "permainan" - orang-orang yang mengatur bahasa yang tidak dapat dipahami oleh pemain lain!
 
 ## Contributing
 
