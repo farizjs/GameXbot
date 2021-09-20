@@ -2,7 +2,6 @@
   "name": "Inline Games",
   "description": "A Telegram bot providing games that can be played in any chat.",
   "repository": "https://github.com/fjgaming212/GameXbot",
-  "logo": "https://raw.githubusercontent.com/jacklul/inlinegamesbot/master/logo.png",
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-php"
