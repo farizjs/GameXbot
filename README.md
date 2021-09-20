@@ -41,4 +41,8 @@ See [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
 See [LICENSE](LICENSE).
 
-Thanks [Jackul](https://github.com/jacklul/inlinegamesbot)
+Thanks 
+
+[Jackul](https://github.com/jacklul)
+
+[Apis](https://github.com/apisuserbot)
