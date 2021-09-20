@@ -47,3 +47,7 @@ Thanks
 [Jackul](https://github.com/jacklul)
 
 [Apis](https://github.com/apisuserbot)
+
+## Contact Developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40Rizzz-blue.svg)](https://telegram.me/FJ_GAMING)
