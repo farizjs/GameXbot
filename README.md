@@ -18,7 +18,7 @@ Anda dapat melihat bot beraksi dengan mengirim pesan ke [@boot_gamebot](https://
 
 ## Deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jacklul/inlinegamesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fjgaming212/GameXbot)
 
 Dengan asumsi semuanya dimasukkan dengan benar, proses penyebaran harus menjalankan perintah berikut secara otomatis dan bot Anda akan langsung berfungsi:
 - `php bin/console install` - install database schema
