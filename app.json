@@ -1,5 +1,5 @@
 {
-  "name": "Inline Games",
+  "name": "GameXbot",
   "description": "A Telegram bot providing games that can be played in any chat.",
   "repository": "https://github.com/fjgaming212/GameXbot",
   "buildpacks": [
