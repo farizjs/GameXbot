@@ -1,9 +1,9 @@
 # GameXbot 
-[![Build Status](https://travis-ci.org/jacklul/inlinegamesbot.svg?branch=master)](https://travis-ci.org/jacklul/inlinegamesbot) [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40boot_gamebot-blue.svg)](https://telegram.me/boot_gamebot)
+[![Build Status](https://travis-ci.org/jacklul/inlinegamesbot.svg?branch=master)](https://travis-ci.org/jacklul/inlinegamesbot) [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40GaameeXbot-blue.svg)](https://telegram.me/GaameeXbot)
 
 Bot Telegram yang menyediakan game multipemain waktu nyata yang dapat dimainkan di obrolan apa pun.
 
-Anda dapat melihat bot beraksi dengan mengirim pesan ke [@boot_gamebot](https://telegram.me/boot_gamebot).
+Anda dapat melihat bot beraksi dengan mengirim pesan ke [@GaameeXbot](https://telegram.me/GaameeXbot).
 
 #### Currently available games:
 
