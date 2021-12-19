@@ -16,25 +16,25 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: Command/Admin/CleansessionsCommand.php:149
-msgid "Create New Session"
+msgid "Buat Sesi Baru"
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:156
-msgid "This game session has expired."
+msgid "Sesi permainan ini telah berakhir."
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:213
 #: Command/System/InlinequeryCommand.php:124 Entity/Game.php:818
-msgid "Create"
+msgid "Membuat"
 msgstr ""
 
 #: Command/System/CallbackqueryCommand.php:73
-msgid "Bad request!"
+msgid "Permintaan yang buruk!"
 msgstr ""
 
 #: Command/System/InlinequeryCommand.php:49 Entity/Game.php:647
 #: Entity/Game.php:721
-msgid "This game session is empty."
+msgid "Sesi permainan ini kosong."
 msgstr ""
 
 #: Command/User/HelpCommand.php:58
@@ -43,25 +43,25 @@ msgstr ""
 
 #: Command/User/HelpCommand.php:59 Command/User/HelpCommand.php:70
 #: Entity/Game.php:571 Entity/Game.php:800 Entity/Game.php:878
-msgid "Play"
+msgid "Bermain"
 msgstr ""
 
 #: Command/User/HelpCommand.php:59
-msgid "To begin, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in."
+msgid "Untuk memulai, mulai pesan dengan {USAGE} di salah satu obrolan Anda atau klik {BUTTON} tombol dan kemudian pilih obrolan untuk dimainkan."
 msgstr ""
 
 #: Entity/Game.php:232
-msgid "This game session has crashed."
+msgid "Sesi permainan ini macet."
 msgstr ""
 
 #: Entity/Game.php:468
-msgid "This game is already created!"
+msgid "Game ini sudah dibuat!"
 msgstr ""
 
 #: Entity/Game.php:481 Entity/Game.php:558 Entity/Game.php:636
 #: Entity/Game.php:661 Entity/Game.php:698 Entity/Game.php:803
 #: Entity/Game/Russianroulette.php:166
-msgid "{PLAYER_HOST} is waiting for opponent to join..."
+msgid "{PLAYER_HOST} sedang menunggu lawan untuk bergabung..."
 msgstr ""
 
 #: Entity/Game.php:481 Entity/Game.php:558 Entity/Game.php:636
@@ -74,27 +74,27 @@ msgstr ""
 #: Entity/Game.php:481 Entity/Game.php:558 Entity/Game.php:636
 #: Entity/Game.php:661 Entity/Game.php:698 Entity/Game.php:803
 #: Entity/Game/Russianroulette.php:166
-msgid "Press {BUTTON} button to join."
+msgid "tekan {BUTTON} tombol untuk bergabung."
 msgstr ""
 
 #: Entity/Game.php:571 Entity/Game.php:800
-msgid "{PLAYER_GUEST} joined..."
+msgid "{PLAYER_GUEST} bergabung..."
 msgstr ""
 
 #: Entity/Game.php:571 Entity/Game.php:800
-msgid "Waiting for {PLAYER} to start..."
+msgid "Menunggu {PLAYER} untuk memulai..."
 msgstr ""
 
 #: Entity/Game.php:571 Entity/Game.php:800
-msgid "Press {BUTTON} button to start."
+msgid "tekan {BUTTON} tombol untuk memulai."
 msgstr ""
 
 #: Entity/Game.php:577
-msgid "You cannot play with yourself!"
+msgid "Anda tidak bisa bermain dengan diri sendiri!"
 msgstr ""
 
 #: Entity/Game.php:580
-msgid "This game is full!"
+msgid "Permainan ini penuh!"
 msgstr ""
 
 #: Entity/Game.php:623 Entity/Game.php:725 Entity/Game.php:756
@@ -103,27 +103,27 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:80 Entity/Game/Poolcheckers.php:133
 #: Entity/Game/Rockpaperscissors.php:75 Entity/Game/Russianroulette.php:75
 #: Entity/Game/Tictactoe.php:84
-msgid "You're not in this game!"
+msgid "Anda tidak dalam permainan ini!"
 msgstr ""
 
 #: Entity/Game.php:636 Entity/Game.php:661
-msgid "{PLAYER} quit..."
+msgid "{PLAYER} berhenti..."
 msgstr ""
 
 #: Entity/Game.php:636
-msgid "{PLAYER_HOST} is now the host."
+msgid "{PLAYER_HOST} sekarang menjadi host game ini."
 msgstr ""
 
 #: Entity/Game.php:684 Entity/Game.php:729 Entity/Game.php:774
-msgid "You're not the host!"
+msgid "kamu bukan host!"
 msgstr ""
 
 #: Entity/Game.php:688
-msgid "There is no player to kick!"
+msgid "Tidak ada pemain yang bisa ditendang!"
 msgstr ""
 
 #: Entity/Game.php:698
-msgid "{PLAYER_GUEST} was kicked..."
+msgid "{PLAYER_GUEST} ditendang..."
 msgstr ""
 
 #: Entity/Game.php:850 Entity/Game.php:898 Entity/Game.php:974
@@ -131,24 +131,24 @@ msgstr ""
 #: Entity/Game/Rockpaperscissors.php:298
 #: Entity/Game/Rockpaperscissorslizardspock.php:243
 #: Entity/Game/Russianroulette.php:297 Entity/Game/Russianroulette.php:312
-msgid "Quit"
+msgid "Berhenti"
 msgstr ""
 
 #: Entity/Game.php:904 Entity/Game.php:980 Entity/Game/Checkers.php:284
 #: Entity/Game/Poolcheckers.php:826 Entity/Game/Rockpaperscissors.php:304
 #: Entity/Game/Rockpaperscissorslizardspock.php:249
 #: Entity/Game/Russianroulette.php:303
-msgid "Kick"
+msgid "Tendang"
 msgstr ""
 
 #: Entity/Game.php:964 Entity/Game/Checkers.php:248
 #: Entity/Game/Poolcheckers.php:790 Entity/Game/Rockpaperscissors.php:277
 #: Entity/Game/Rockpaperscissorslizardspock.php:222
-msgid "Play again!"
+msgid "Main lagi!"
 msgstr ""
 
 #: Entity/Game.php:1048
-msgid "Game session not found or expired."
+msgid "Sesi permainan tidak ditemukan atau telah selesai."
 msgstr ""
 
 #: Entity/Game/Checkers.php:117 Entity/Game/Checkers.php:378
@@ -156,7 +156,7 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:86 Entity/Game/Poolcheckers.php:176
 #: Entity/Game/Rockpaperscissors.php:103 Entity/Game/Russianroulette.php:109
 #: Entity/Game/Tictactoe.php:119
-msgid "This game has ended!"
+msgid "Permainan ini telah berakhir!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:129 Entity/Game/Checkers.php:154
@@ -168,7 +168,7 @@ msgid "{PLAYER} won!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:130 Entity/Game/Checkers.php:155
-msgid "{PLAYER} surrendered!"
+msgid "{PLAYER} menyerah!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:146 Entity/Game/Checkers.php:171
@@ -176,21 +176,21 @@ msgid "Press the button again to surrender!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:258 Entity/Game/Poolcheckers.php:800
-msgid "Surrender"
+msgid "Menyerah"
 msgstr ""
 
 #: Entity/Game/Checkers.php:267 Entity/Game/Poolcheckers.php:809
-msgid "Vote to draw"
+msgid "Pilih untuk menggambar"
 msgstr ""
 
 #: Entity/Game/Checkers.php:406 Entity/Game/Poolcheckers.php:118
-msgid "You already voted!"
+msgid "Anda sudah memilih!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:486 Entity/Game/Checkers.php:509
 #: Entity/Game/Checkers.php:557 Entity/Game/Poolcheckers.php:197
 #: Entity/Game/Poolcheckers.php:220 Entity/Game/Poolcheckers.php:271
-msgid "You must make a jump when possible!"
+msgid "Anda harus melompat jika memungkinkan!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:561 Entity/Game/Checkers.php:571
@@ -198,84 +198,84 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:275 Entity/Game/Poolcheckers.php:285
 #: Entity/Game/Rockpaperscissors.php:122 Entity/Game/Russianroulette.php:127
 #: Entity/Game/Tictactoe.php:127 Entity/Game/Tictactoe.php:143
-msgid "Invalid move!"
+msgid "Langkah tidak valid!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:569 Entity/Game/Poolcheckers.php:283
-msgid "Invalid selection!"
+msgid "Pilihan tidak valid!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:575 Entity/Game/Connectfour.php:125
 #: Entity/Game/Poolcheckers.php:289 Entity/Game/Russianroulette.php:113
 #: Entity/Game/Tictactoe.php:123
-msgid "It's not your turn!"
+msgid "Ini bukan giliranmu!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:594 Entity/Game/Connectfour.php:167
 #: Entity/Game/Poolcheckers.php:308 Entity/Game/Tictactoe.php:155
-msgid "Game ended with a draw!"
+msgid "Pertandingan berakhir imbang!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:605 Entity/Game/Checkers.php:607
 #: Entity/Game/Poolcheckers.php:319 Entity/Game/Poolcheckers.php:321
-msgid "{PLAYER} voted to draw!"
+msgid "{PLAYER} memilih untuk seri!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:613 Entity/Game/Poolcheckers.php:327
-msgid "(Select the piece you want to move)"
+msgid "(Pilih bagian yang ingin Anda pindahkan)"
 msgstr ""
 
 #: Entity/Game/Checkers.php:615 Entity/Game/Poolcheckers.php:329
-msgid "(Selected: {COORDINATES})"
+msgid "(Terpilih: {COORDINATES})"
 msgstr ""
 
 #: Entity/Game/Checkers.php:618 Entity/Game/Poolcheckers.php:332
-msgid "(Make your move or select different piece)"
+msgid "(Lakukan gerakan Anda atau pilih bagian yang berbeda)"
 msgstr ""
 
 #: Entity/Game/Checkers.php:620 Entity/Game/Poolcheckers.php:334
-msgid "(Your move must continue)"
+msgid "(Langkahmu harus berlanjut)"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:140 Entity/Game/Rockpaperscissors.php:144
-msgid "{PLAYER} won this round!"
+msgid "{PLAYER} memenangkan babak ini!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:146
-msgid "This round ended with a draw!"
+msgid "Babak ini berakhir dengan hasil imbang!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:155 Entity/Game/Rockpaperscissors.php:159
-msgid "{PLAYER} won the game!"
+msgid "{PLAYER} memenangkan permainan!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:163
-msgid "Round {ROUND} - make your picks!"
-msgstr ""
+msgid "Ronda {ROUND} - tentukan pilihanmu!"
+msgid ""
 
 #: Entity/Game/Rockpaperscissors.php:166 Entity/Game/Rockpaperscissors.php:168
 msgid "Waiting for:"
 msgstr ""
 
 #: Entity/Game/Russianroulette.php:136 Entity/Game/Russianroulette.php:149
-msgid "{PLAYER} died! (kicked)"
+msgid "{PLAYER} meninggalkan! (ditendang)"
 msgstr ""
 
 #: Entity/Game/Russianroulette.php:170
-msgid "{PLAYER} survived!"
+msgid "{PLAYER} selamat!"
 msgstr ""
 
 #: GameCore.php:127
-msgid "Database error!"
+msgid "Kesalahan basis data!"
 msgstr ""
 
 #: GameCore.php:127 GameCore.php:254 GameCore.php:278 GameCore.php:302
 #: GameCore.php:326
-msgid "Try again in a few seconds."
+msgid "Coba lagi dalam beberapa detik."
 msgstr ""
 
 #: GameCore.php:254
-msgid "Process for this game is busy!"
+msgid "Proses untuk game ini sedang sibuk!"
 msgstr ""
 
 #: GameCore.php:278
@@ -283,7 +283,7 @@ msgid "Telegram API error!"
 msgstr ""
 
 #: GameCore.php:302
-msgid "Bot error!"
+msgid "Maaf, Bot error!"
 msgstr ""
 
 #: GameCore.php:326
